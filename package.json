@@ -1,0 +1,21 @@
+{
+  "name": "watson-discovery",
+  "version": "1.0.0",
+  "private": true,
+  "main": "app.js",
+  "license": "Apache-2.0",
+  "repository": {
+    "type": "git",
+    "url": null
+  },
+  "dependencies": {
+    "dotenv": "^6.2.0",
+    "express": "^4.16.4",
+    "express-browserify": "^1.0.2",
+    "express-react-views": "^0.11.0",
+    "watson-developer-cloud": "3.15.0"
+  },
+  "engines": {
+    "node": "8.4.0"
+  }
+}
